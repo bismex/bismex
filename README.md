@@ -1,4 +1,4 @@
-[![Seokeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismex&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Ph.D. Candidate at KAIST & Previsouly visiting student at CMU
 - I am looking for a position as a research scientist or postdoctoral researcher in the US. (NIW-EB2 visa)
@@ -8,6 +8,7 @@
 - CV: Person/vehicle re-identification, object tracking/recognition/detection/segmentation, gait/face recognition, image generation
 - ML: Domain adaption/generalization, meta-learning, normalization, few-shot learning, self-supervised learning, GAN
 
+[![Seokeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismex&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=left>
 	
