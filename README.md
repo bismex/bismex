@@ -1,3 +1,7 @@
+<div align=left>
+[![Seokeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismex)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ### Ph.D. Candidate at KAIST
 
 ### Research Interests
