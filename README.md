@@ -1,7 +1,7 @@
 
 
-### Ph.D. Candidate at KAIST & Previsouly visiting student at CMU
-- I am looking for a position as a research scientist or postdoctoral researcher in the US. (NIW-EB2 visa) [[CV](https://drive.google.com/file/d/1BDnadoRBb2HWwZ7CaHmk38PBQ_1YsJIM/view)]
+### Ph.D. Candidate at KAIST & Previsouly visiting student at CMU [[CV](https://drive.google.com/file/d/1BDnadoRBb2HWwZ7CaHmk38PBQ_1YsJIM/view)]
+- I am looking for a position as a research scientist or postdoctoral researcher in the US. (NIW-EB2 visa) 
 
 ### Research Interests [[Details](https://drive.google.com/file/d/1Y0c1zSC5mc3tfHZBOqTYt1F9b9yQdxzF/view)]
 - Computer vision and machine learning
