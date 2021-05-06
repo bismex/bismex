@@ -1,7 +1,7 @@
 [![Seokeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bismex&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ph.D. Candidate at KAIST & Previsouly visiting student at CMU
-- I am looking for a position as a research scientist or postdoctoral researcher in the US.
+- I am looking for a position as a research scientist or postdoctoral researcher in the US. (NIW-EB2 visa)
 - 
 ### Research Interests
 - Computer vision and machine learning
