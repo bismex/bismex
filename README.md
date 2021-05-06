@@ -2,8 +2,7 @@
 
 ### Ph.D. Candidate at KAIST & Previsouly visiting student at CMU
 - I am looking for a position as a research scientist or postdoctoral researcher in the US.
-- I am preparing "Green Card: EB-2 National Interest Waivers (NIW)".
-
+- 
 ### Research Interests
 - Computer vision and machine learning
 - CV: Person/vehicle re-identification, object tracking/recognition/detection/segmentation, gait/face recognition, image generation
