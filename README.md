@@ -2,6 +2,11 @@
 
 ### Research Interests
 
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbismex&count_bg=%23E1C189&title_bg=%23555555&icon=&icon_color=%23EAC77B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <div align=center>
 	
