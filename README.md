@@ -1,6 +1,6 @@
 
 
-### Senior AI Researcher at Qualcomm AI
+### Staff Research Engineer at Qualcomm AI
 - Previously, Ph.D. at KAIST, Research Intern at Google, Visiting student at CMU [[CV](https://drive.google.com/file/d/1BDnadoRBb2HWwZ7CaHmk38PBQ_1YsJIM/view)] [[Homepage](https://sites.google.com/site/seokeonchoi/)]
 - I am looking for a position as a research scientist in the US.
 
